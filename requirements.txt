@@ -1,0 +1,9 @@
+timm==0.9.12
+transformers==4.35.2
+sentence-transformers
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+ipykernel
+tqdm
